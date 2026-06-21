@@ -22,7 +22,7 @@ import {
   importSettings
 } from "./src/lib/settings";
 
-dotenv.config();
+dotenv.config({ override: false });
 
 const apiKey = process.env.GEMINI_API_KEY;
 const ai = new GoogleGenAI({
