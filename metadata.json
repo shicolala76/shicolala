@@ -1,0 +1,6 @@
+{
+  "name": "شركة الهضبة لتجارة الخردة والمعادن",
+  "description": "نظام شركة الهضبة المتكامل لإدارة ومحاسبة تجارة وتذاكر وزن الخردة والمعادن في مصر ومطابقة كشوفات الحسابات والميزان البسكول بدقة عاليّة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
